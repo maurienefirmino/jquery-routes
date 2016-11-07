@@ -1,2 +1,3 @@
 # jquery-routes
-Projetos simples feito para estudo do plugin JQuery.routes
+Projeto simples feito para estudo do plugin [jquery routes](https://github.com/thorsteinsson/jquery-routes)
+usando ES6.
